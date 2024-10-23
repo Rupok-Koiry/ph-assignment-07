@@ -60,7 +60,7 @@ VALUES
 
 -- Query 1: Insert a new student record
 INSERT INTO students (student_name, age, email, frontend_mark, backend_mark, status)
-VALUES ('YourName', YourAge, 'YourEmail', YourFrontendMark, YourBackendMark, NULL);
+VALUES ('Rupok Koiry', YourAge, 'koiry.rupok@gmail.com', 60, 60, NULL);
 
 -- Query 2: Retrieve the names of all students enrolled in the 'Next.js' course
 SELECT s.student_name 
